@@ -1,5 +1,5 @@
 var story = {
- "docName": "에이코 앱 UI 웹사이트",
+ "docName": "에이코",
  "docPath": "P_P_P",
  "docVersion": 100000001,
  "ownerName": "",
@@ -16,7 +16,7 @@ var story = {
  "zoomEnabled": true,
  "cloud": false,
  "singleFile": false,
- "title": "에이코 앱 UI 웹사이트",
+ "title": "에이코",
  "layersExist": false,
  "pages": [
   {
@@ -530,6 +530,28 @@ var story = {
      ]
     },
     {
+     "name": "Group 6802",
+     "rect": {
+      "x": 322,
+      "y": 479,
+      "width": 67,
+      "height": 67
+     },
+     "index": 18,
+     "reactions": [
+      {
+       "action": "FRAME",
+       "navigationType": "NAVIGATE",
+       "trigger": "ON_CLICK",
+       "srcPageIndex": 4,
+       "frameIndex": 9,
+       "transAnimType": 0,
+       "transAnimDuration": 300,
+       "tmpDestModal": false
+      }
+     ]
+    },
+    {
      "name": "Mask Group",
      "rect": {
       "x": 0,
@@ -537,7 +559,7 @@ var story = {
       "width": 413.82696533203125,
       "height": 330
      },
-     "index": 18,
+     "index": 19,
      "reactions": [
       {
        "action": "FRAME",
@@ -582,7 +604,7 @@ var story = {
       "width": 364,
       "height": 42.314849853515625
      },
-     "index": 19,
+     "index": 20,
      "reactions": [
       {
        "action": "FRAME",
@@ -605,7 +627,7 @@ var story = {
       "width": 10,
       "height": 18
      },
-     "index": 20,
+     "index": 21,
      "reactions": [
       {
        "action": "FRAME",
@@ -615,6 +637,28 @@ var story = {
        "frameIndex": 0,
        "transAnimType": 0,
        "transAnimDuration": 0.30000001192092896,
+       "tmpDestModal": false
+      }
+     ]
+    },
+    {
+     "name": "Group 6802",
+     "rect": {
+      "x": 322,
+      "y": 762,
+      "width": 67,
+      "height": 67
+     },
+     "index": 22,
+     "reactions": [
+      {
+       "action": "FRAME",
+       "navigationType": "NAVIGATE",
+       "trigger": "ON_CLICK",
+       "srcPageIndex": 5,
+       "frameIndex": 9,
+       "transAnimType": 0,
+       "transAnimDuration": 300,
        "tmpDestModal": false
       }
      ]
@@ -650,7 +694,7 @@ var story = {
       "width": 154,
       "height": 78
      },
-     "index": 21,
+     "index": 23,
      "reactions": [
       {
        "action": "FRAME",
@@ -673,7 +717,7 @@ var story = {
       "width": 154,
       "height": 78
      },
-     "index": 22,
+     "index": 24,
      "reactions": [
       {
        "action": "FRAME",
@@ -696,7 +740,7 @@ var story = {
       "width": 24,
       "height": 41.520263671875
      },
-     "index": 23,
+     "index": 25,
      "reactions": [
       {
        "action": "FRAME",
@@ -718,7 +762,7 @@ var story = {
       "width": 24,
       "height": 40.6865234375
      },
-     "index": 24,
+     "index": 26,
      "reactions": [
       {
        "action": "FRAME",
@@ -740,7 +784,7 @@ var story = {
       "width": 24,
       "height": 41.168426513671875
      },
-     "index": 25,
+     "index": 27,
      "reactions": [
       {
        "action": "FRAME",
@@ -785,7 +829,7 @@ var story = {
       "width": 154,
       "height": 78
      },
-     "index": 26,
+     "index": 28,
      "reactions": [
       {
        "action": "FRAME",
@@ -807,7 +851,7 @@ var story = {
       "width": 154,
       "height": 78
      },
-     "index": 27,
+     "index": 29,
      "reactions": [
       {
        "action": "FRAME",
@@ -829,7 +873,7 @@ var story = {
       "width": 24,
       "height": 41.520263671875
      },
-     "index": 28,
+     "index": 30,
      "reactions": [
       {
        "action": "FRAME",
@@ -851,7 +895,7 @@ var story = {
       "width": 24,
       "height": 40.6865234375
      },
-     "index": 29,
+     "index": 31,
      "reactions": [
       {
        "action": "FRAME",
@@ -873,7 +917,7 @@ var story = {
       "width": 24,
       "height": 41.168426513671875
      },
-     "index": 30,
+     "index": 32,
      "reactions": [
       {
        "action": "FRAME",
@@ -918,7 +962,7 @@ var story = {
       "width": 413.82696533203125,
       "height": 330
      },
-     "index": 31,
+     "index": 33,
      "reactions": [
       {
        "action": "FRAME",
@@ -940,7 +984,7 @@ var story = {
       "width": 10,
       "height": 18
      },
-     "index": 32,
+     "index": 34,
      "reactions": [
       {
        "action": "FRAME",
@@ -962,7 +1006,7 @@ var story = {
       "width": 67,
       "height": 67
      },
-     "index": 33,
+     "index": 35,
      "reactions": [
       {
        "action": "FRAME",
@@ -1007,7 +1051,7 @@ var story = {
       "width": 10,
       "height": 18
      },
-     "index": 34,
+     "index": 36,
      "reactions": [
       {
        "action": "FRAME",
@@ -1029,7 +1073,7 @@ var story = {
       "width": 67,
       "height": 67
      },
-     "index": 35,
+     "index": 37,
      "reactions": [
       {
        "action": "FRAME",
@@ -1051,7 +1095,7 @@ var story = {
       "width": 364,
       "height": 42.314849853515625
      },
-     "index": 36,
+     "index": 38,
      "reactions": [
       {
        "action": "FRAME",
@@ -1097,7 +1141,7 @@ var story = {
       "width": 313,
       "height": 67
      },
-     "index": 37,
+     "index": 39,
      "reactions": [
       {
        "action": "FRAME",
@@ -1119,7 +1163,7 @@ var story = {
       "width": 313,
       "height": 67
      },
-     "index": 38,
+     "index": 40,
      "reactions": [
       {
        "action": "FRAME",
@@ -1141,7 +1185,7 @@ var story = {
       "width": 15.711524963378906,
       "height": 15.532496452331543
      },
-     "index": 39,
+     "index": 41,
      "reactions": [
       {
        "action": "FRAME",
@@ -1186,7 +1230,7 @@ var story = {
       "width": 313,
       "height": 67
      },
-     "index": 40,
+     "index": 42,
      "reactions": [
       {
        "action": "FRAME",
@@ -1208,7 +1252,7 @@ var story = {
       "width": 313,
       "height": 67
      },
-     "index": 41,
+     "index": 43,
      "reactions": [
       {
        "action": "FRAME",
@@ -1230,7 +1274,7 @@ var story = {
       "width": 15.711524963378906,
       "height": 15.532496452331543
      },
-     "index": 42,
+     "index": 44,
      "reactions": [
       {
        "action": "FRAME",
@@ -1275,7 +1319,7 @@ var story = {
       "width": 364,
       "height": 67
      },
-     "index": 43,
+     "index": 45,
      "reactions": [
       {
        "action": "FRAME",
@@ -1320,7 +1364,7 @@ var story = {
       "width": 364,
       "height": 78
      },
-     "index": 44,
+     "index": 46,
      "reactions": [
       {
        "action": "FRAME",
@@ -1342,7 +1386,7 @@ var story = {
       "width": 364,
       "height": 78
      },
-     "index": 45,
+     "index": 47,
      "reactions": [
       {
        "action": "FRAME",
@@ -1365,7 +1409,7 @@ var story = {
       "width": 364,
       "height": 78
      },
-     "index": 46,
+     "index": 48,
      "reactions": [
       {
        "action": "FRAME",
@@ -1388,7 +1432,7 @@ var story = {
       "width": 24,
       "height": 41.520263671875
      },
-     "index": 47,
+     "index": 49,
      "reactions": [
       {
        "action": "FRAME",
@@ -1410,7 +1454,7 @@ var story = {
       "width": 24,
       "height": 41.168426513671875
      },
-     "index": 48,
+     "index": 50,
      "reactions": [
       {
        "action": "FRAME",
@@ -1432,7 +1476,7 @@ var story = {
       "width": 42,
       "height": 41.520263671875
      },
-     "index": 49,
+     "index": 51,
      "reactions": [
       {
        "action": "FRAME",
@@ -1477,7 +1521,7 @@ var story = {
       "width": 364,
       "height": 78
      },
-     "index": 50,
+     "index": 52,
      "reactions": [
       {
        "action": "FRAME",
@@ -1499,7 +1543,7 @@ var story = {
       "width": 364,
       "height": 78
      },
-     "index": 51,
+     "index": 53,
      "reactions": [
       {
        "action": "FRAME",
@@ -1521,7 +1565,7 @@ var story = {
       "width": 364,
       "height": 89
      },
-     "index": 52,
+     "index": 54,
      "reactions": [
       {
        "action": "FRAME",
@@ -1543,7 +1587,7 @@ var story = {
       "width": 24,
       "height": 41.520263671875
      },
-     "index": 53,
+     "index": 55,
      "reactions": [
       {
        "action": "FRAME",
@@ -1565,7 +1609,7 @@ var story = {
       "width": 24,
       "height": 41.168426513671875
      },
-     "index": 54,
+     "index": 56,
      "reactions": [
       {
        "action": "FRAME",
@@ -1587,7 +1631,7 @@ var story = {
       "width": 42,
       "height": 41.520263671875
      },
-     "index": 55,
+     "index": 57,
      "reactions": [
       {
        "action": "FRAME",
@@ -1632,7 +1676,7 @@ var story = {
       "width": 364,
       "height": 78
      },
-     "index": 56,
+     "index": 58,
      "reactions": [
       {
        "action": "FRAME",
@@ -1654,7 +1698,7 @@ var story = {
       "width": 364,
       "height": 78
      },
-     "index": 57,
+     "index": 59,
      "reactions": [
       {
        "action": "FRAME",
@@ -1676,7 +1720,7 @@ var story = {
       "width": 364,
       "height": 89
      },
-     "index": 58,
+     "index": 60,
      "reactions": [
       {
        "action": "FRAME",
@@ -1698,7 +1742,7 @@ var story = {
       "width": 24,
       "height": 41.5205078125
      },
-     "index": 59,
+     "index": 61,
      "reactions": [
       {
        "action": "FRAME",
@@ -1720,7 +1764,7 @@ var story = {
       "width": 24,
       "height": 41.168426513671875
      },
-     "index": 60,
+     "index": 62,
      "reactions": [
       {
        "action": "FRAME",
@@ -1742,7 +1786,7 @@ var story = {
       "width": 42,
       "height": 41.5205078125
      },
-     "index": 61,
+     "index": 63,
      "reactions": [
       {
        "action": "FRAME",
@@ -1787,7 +1831,7 @@ var story = {
       "width": 364,
       "height": 67
      },
-     "index": 62,
+     "index": 64,
      "reactions": [
       {
        "action": "FRAME",
@@ -1809,7 +1853,7 @@ var story = {
       "width": 24,
       "height": 41.520263671875
      },
-     "index": 63,
+     "index": 65,
      "reactions": [
       {
        "action": "FRAME",
@@ -1831,7 +1875,7 @@ var story = {
       "width": 24,
       "height": 40.6865234375
      },
-     "index": 64,
+     "index": 66,
      "reactions": [
       {
        "action": "FRAME",
@@ -1853,7 +1897,7 @@ var story = {
       "width": 42,
       "height": 41.520263671875
      },
-     "index": 65,
+     "index": 67,
      "reactions": [
       {
        "action": "FRAME",
