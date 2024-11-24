@@ -1,5 +1,5 @@
 var story = {
- "docName": "에이코 브랜드 기획안 (UI)",
+ "docName": "에이코 앱 UI 웹사이트",
  "docPath": "P_P_P",
  "docVersion": 100000001,
  "ownerName": "",
@@ -16,7 +16,7 @@ var story = {
  "zoomEnabled": true,
  "cloud": false,
  "singleFile": false,
- "title": "에이코 브랜드 기획안 (UI)",
+ "title": "에이코 앱 UI 웹사이트",
  "layersExist": false,
  "pages": [
   {
