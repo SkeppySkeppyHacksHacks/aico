@@ -1,5 +1,5 @@
 var story = {
- "docName": "에이코",
+ "docName": "에이코 모바일",
  "docPath": "P_P_P",
  "docVersion": 100000001,
  "ownerName": "",
@@ -10,13 +10,13 @@ var story = {
  "disableInteractions": false,
  "highlightHotspot": false,
  "highlightAllHotspots": false,
- "hideGallery": true,
+ "hideGallery": false,
  "galleryPageColorsEnabled": true,
- "galleryDecorNodesEnabled": false,
+ "galleryDecorNodesEnabled": true,
  "zoomEnabled": true,
  "cloud": false,
  "singleFile": false,
- "title": "에이코",
+ "title": "에이코 모바일",
  "layersExist": false,
  "pages": [
   {
@@ -1921,7 +1921,7 @@ var story = {
   {
    "id": "2078:2653",
    "index": 0,
-   "name": "UI 2",
+   "name": "UI for web",
    "backColor": "#1E1E1E"
   }
  ]
